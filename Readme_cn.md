@@ -8,6 +8,10 @@
  3、[业主手机端](https://gitee.com/java110/WechatOwnerService): 提供用户使用，包括投诉 建议，缴费、报修 等<br/>
  4、[物业手机版](https://gitee.com/java110/PropertyApp): 物业员工使用手机端<br/>
 
+ ## 演示环境
+
+ [http://www.homecommunity.cn/](http://www.homecommunity.cn/)
+
 ## 如何安装
 
 1、[开发环境安装](docs/installHcDev.md) <br/>
