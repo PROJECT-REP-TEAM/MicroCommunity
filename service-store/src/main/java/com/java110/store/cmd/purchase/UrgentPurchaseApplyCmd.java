@@ -81,7 +81,7 @@ public class UrgentPurchaseApplyCmd extends Cmd {
 
         Assert.listOnlyOne(userDtos,"用户不存在");
 
-        userName = userDto.getName();
+        userName = userDtos.get(0).getName();
 
         String storeId = context.getReqHeaders().get("store-id");
         PurchaseApplyDto purchaseApplyDto = new PurchaseApplyDto();
